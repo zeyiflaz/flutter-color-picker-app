@@ -1,16 +1,29 @@
-# flutter_renk_secici_app
+# Flutter Renk Seçici Uygulaması 🎨
 
-A new Flutter project.
+Bu uygulama, Flutter kullanılarak geliştirilmiş bir renk seçici uygulamasıdır. Kullanıcılar belirli renkler arasından seçim yapabilir, rastgele renk oluşturabilir ve seçilen rengin RGB değerlerini görüntüleyebilir.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- 🎯 Dropdown ile renk seçimi
+- 🔄 Rastgele renk oluşturma
+- ℹ️ Renk RGB kodu gösterme
+- 🟨 Container şekli değiştirme (kare/daire)
+- 🧾 Renk adını göster/gizle seçeneği
 
-A few resources to get you started if this is your first Flutter project:
+## Ekran Görüntüsü
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📷 (Buraya bir ekran görüntüsü ekleyebilirsiniz)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kullanılan Teknolojiler
+
+- Flutter
+- Dart
+- fluttertoast paketi
+
+## Kurulum
+
+```bash
+git clone https://github.com/zeyiflaz/flutter-color-picker-app.git
+cd flutter-color-picker-app
+flutter pub get
+flutter run
